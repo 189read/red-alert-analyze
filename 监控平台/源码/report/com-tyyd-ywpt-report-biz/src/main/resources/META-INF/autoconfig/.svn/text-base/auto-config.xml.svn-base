@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config>
-    
-	<script>
-		<generate template="report_war_config.properties.vm" destfile="/config/report_war_config.properties" charset="utf-8" />
-	</script>
-</config>

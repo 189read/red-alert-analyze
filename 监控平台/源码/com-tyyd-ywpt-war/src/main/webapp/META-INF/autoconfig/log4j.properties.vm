@@ -1,3 +1,0 @@
-com.ywpt.logging.root=${com_ywpt_logging_root}
-com.ywpt.logging.level=${com_ywpt_logging_level}
-com.ywpt.logging.file.encoding=${com_ywpt_logging_file_encoding}

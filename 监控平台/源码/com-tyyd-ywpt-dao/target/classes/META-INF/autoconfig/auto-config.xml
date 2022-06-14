@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config>
-    
-	<script>
-		<generate template="jdbc.properties.vm" destfile="/conf/jdbc.properties" charset="utf-8" />
-	</script>
-</config>

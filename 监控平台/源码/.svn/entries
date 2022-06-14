@@ -1,86 +1,0 @@
-10
-
-dir
-3507
-https://svn.189read.net:4443/op/06.%E8%BF%90%E7%BB%B4%E8%B5%84%E6%96%99/ywpt/branches/20140616_ywpt_wy_dev
-https://svn.189read.net:4443/op
-
-
-
-2015-06-29T02:29:52.643260Z
-3507
-wangyu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ff94cba1-1166-4df5-9a06-ead88888f6ad
-
-com-tyyd-ywpt-deploy
-dir
-
-com-tyyd-ywpt-tools
-dir
-
-distcenter
-dir
-
-com-tyyd-ywpt-dao
-dir
-
-com-tyyd-ywpt-biz
-dir
-
-pom.xml
-file
-
-
-
-
-2015-06-24T03:05:19.556835Z
-eb0d53bac9e4421c871edece140c50a6
-2015-06-04T08:36:09.035690Z
-3484
-wangyu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8630
-
-report
-dir
-
-schedule
-dir
-
-com-tyyd-ywpt-war
-dir
-

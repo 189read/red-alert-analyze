@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config>
-    
-	<script>
-	<!--  	<generate template="log4j.properties.vm" destfile="/config/log4j.properties" charset="utf-8" /> -->
-		<generate template="monitor_war_config.properties.vm" destfile="/config/monitor_war_config.properties" charset="utf-8" />
-	</script>
-</config>

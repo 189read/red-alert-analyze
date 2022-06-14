@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config>
-    
-	<script>
-		<generate template="log4j.properties.vm" destfile="/WEB-INF/config/log4j.properties" charset="utf-8" />
-	</script>
-</config>

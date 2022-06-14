@@ -1,3 +1,0 @@
-com.tyyd.ywpt.report.logging.root=${com_tyyd_ywpt_report_logging_root}
-com.tyyd.ywpt.report.logging.level=${com_tyyd_ywpt_report_logging_level}
-com.tyyd.ywpt.report.logging.file.encoding=${com_tyyd_ywpt_report_logging_file_encoding}

@@ -1,8 +1,0 @@
-namenode:192.168.10.35
-SecondaryNameNode:192.168.10.36
-Datanode1:192.168.10.22
-Datanode2:192.168.10.23
-Datenode3:192.168.10.96
-Datanode4:192.168.10.54
-Datanode5:192.168.10.55
-Datanode6:192.168.10.56
